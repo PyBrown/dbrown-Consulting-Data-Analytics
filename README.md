@@ -11,20 +11,20 @@ https://app.powerbi.com/view?r=eyJrIjoiYzkyYjczZmMtZjA3MC00NzNhLTkyM2QtMzVhNTQyY
 - Power BI Service for sharing the data
 
 ### Steps Followed:
-- Loaded the excel workbook containing the sales data into Power BI desktop in the Import mode.
+- Loaded the excel workbook containing the sales data into Power BI Desktop in the Import mode.
 - Launched Power Query from Power BI desktop to edit the sales data query.
 - Carried out data discovery and profiling by examining the column distribution, column quality, and column profile.
-- Validated data quality and commenced processing (data had been cleansed in a previous exercise).
+- Validated the data quality and commenced processing (data had been cleansed in a previous exercise).
 - Identified all reporting fields and categorized the fields into reporting lines and values.
 - Grouped related reporting lines into hierarchies.
 - Identified dimension keys from reporting lines with the lowest granulairty for each hierachy group.
-- Identified the fact table fields comprising of the dimension key fields and value fields.
+- Identified the fact table fields comprising the dimension key fields and value fields.
 - Created a fact table, date table, and other dimension tables for each hierarachy groups.
 - Modeled the relationships between the dimensions and the fact table in Power BI Desktop's model view.
-- Generated anchor, filter, and variance measures for analysis using DAX.
-- Created reports on key sales metrics using various visulas in Power BI Desktop's report view.
+- Generated anchor, filter, and variance measures for analysis using DAX expressions.
+- Created reports on key sales metrics using various visuals in Power BI Desktop's report view.
 - Enabled slicer selection and drill through capabilities for intercative visualization of the sales metrics.
-- Published the multi-page report to Power BI Service, enabling sharing and collaboration.
+- Published the multi-page report to Power BI Service, enabling collaboration.
 
 ### Dashboard Snapshot:
 ![Sales Dashboard](https://github.com/user-attachments/assets/83f0ebad-8cbd-4991-b596-6494ce81c250)
