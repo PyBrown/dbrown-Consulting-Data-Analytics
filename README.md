@@ -5,6 +5,9 @@ The project demonstrates the analysis of sales data in Power BI to derive visual
 ### Dashboard Link:
 https://app.powerbi.com/view?r=eyJrIjoiYzkyYjczZmMtZjA3MC00NzNhLTkyM2QtMzVhNTQyYWQ0NTYzIiwidCI6Ijg0Y2VmMGY0LWVhZmEtNGQ4MS04MTg2LTU5ZmI4YTA2MzE2YyJ9
 
+### Dashboard Snapshot:
+![Sales Dashboard](https://github.com/user-attachments/assets/83f0ebad-8cbd-4991-b596-6494ce81c250)
+
 ### Tools Used:
 - Power Query for preparing the data
 - Power BI Desktop for modeling the data and generating reports
@@ -25,6 +28,3 @@ https://app.powerbi.com/view?r=eyJrIjoiYzkyYjczZmMtZjA3MC00NzNhLTkyM2QtMzVhNTQyY
 - Created reports on key sales metrics using various visuals in Power BI Desktop's report view.
 - Enabled slicer selection and drill through capabilities for intercative visualization of the sales metrics.
 - Published the multi-page report to Power BI Service, enabling collaboration.
-
-### Dashboard Snapshot:
-![Sales Dashboard](https://github.com/user-attachments/assets/83f0ebad-8cbd-4991-b596-6494ce81c250)
